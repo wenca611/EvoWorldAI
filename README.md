@@ -12,3 +12,13 @@ Agent vnímá hru jako obrazové vstupy, analyzuje je a provádí akce na zákla
 Trénuje se s využitím Replay Bufferu a Target Network Update, aby se zlepšila stabilita učení.
 
 Cílem je dosáhnout optimální strategie přežití a evoluce v herním prostředí.
+
+![1](screenshot/1.png)
+
+![1](screenshot/2.png)
+
+![1](screenshot/3.png)
+
+![1](screenshot/4.png)
+
+![1](screenshot/screenshot_1.png)
