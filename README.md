@@ -13,6 +13,9 @@ Trénuje se s využitím Replay Bufferu a Target Network Update, aby se zlepšil
 
 Cílem je dosáhnout optimální strategie přežití a evoluce v herním prostředí.
 
+![s1](screenshot/screenshot_1.png)
+![s2](screenshot/screenshot_2.png)
+
 ![1](screenshot/1.jpg)
 
 ![2](screenshot/2.jpg)
@@ -21,4 +24,4 @@ Cílem je dosáhnout optimální strategie přežití a evoluce v herním prost�
 
 ![4](screenshot/4.jpg)
 
-![5](screenshot/screenshot_1.png)
+
