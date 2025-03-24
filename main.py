@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Python 3.10+
+# Python 3.12+
 
 """
 Projekt: EvoWorld Bot
